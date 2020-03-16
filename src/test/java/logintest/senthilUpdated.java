@@ -9,6 +9,7 @@ import loginpage.Loginpage;
 public class Logintest {
 
 	Loginpage lgp5;
+	Loginpage lgp10;
 	Basepage  bp;
 	
 	public Logintest()
